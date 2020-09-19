@@ -9,3 +9,5 @@ Snowflake offers a cloud-based data storage and analytics service. They allow us
 Main competitors are Amazon web services, Microsoft SQL, Teradata, Oracle 
 
 George's part
+
+hmm... this is fun :) 
